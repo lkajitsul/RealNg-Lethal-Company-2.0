@@ -10,7 +10,7 @@ To install, you need:
 
 Done, you can launch, but that's not all
 
-    After you have logged into the game, go to settings, to the tab "Change keybinds"
+    Start the game, go to settings, to the tab "Change keybinds"
     Find the "Custom Remote API" and under "Play Random Emote" change the activation key from "F" to any other one for you
     Otherwise, this function will conflict with the activation of the flashlight in the game or with something else
 
